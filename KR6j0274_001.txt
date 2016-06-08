@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:06.893377
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:43
 #+TITLE: 千手觀音造次第法儀軌
 #+PROPERTY: CBETA_ID T20n1068
 #+PROPERTY: ID KR6j0274
