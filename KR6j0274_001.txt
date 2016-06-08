@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:06.893377
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:43
 #+TITLE: 千手觀音造次第法儀軌
 #+PROPERTY: CBETA_ID T20n1068
 #+PROPERTY: ID KR6j0274
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1068
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0274_T_000-0138a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0274_T_001-0138a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1068¶
-
- 千手觀音造次第法儀軌¶
+No. 1068¶
+千手觀音造次第法儀軌¶
 ¶
 中天竺國三藏善無畏奉　詔譯¶
 
